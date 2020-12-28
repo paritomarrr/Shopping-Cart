@@ -1,0 +1,73 @@
+* {
+  margin: 0;
+  padding: 0;
+
+  color: black;
+}
+.nav1 {
+  width: 100%;
+  position: relative;
+  z-index: 100;
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.navbar {
+  display: flex;
+  background-color: black;
+  color: white;
+  position: fixed;
+}
+
+.navbar a {
+  color: white;
+}
+.Left {
+  font-family: "Josefin Slab", serif;
+  margin-left: 5px;
+  margin-top: 7px;
+  list-style-type: none;
+}
+.Left li {
+  list-style: none;
+  text-decoration: none;
+}
+.Left:hover {
+  color: #fafafa;
+}
+.infinity a {
+  color: white;
+  list-style: none;
+}
+.infinity {
+  font-size: 40px;
+}
+
+ul {
+  text-decoration: none;
+}
+.Right a {
+  text-decoration: none;
+  color: white;
+}
+.Right {
+  font-family: "Josefin Sans", sans-serif;
+}
+li {
+  text-decoration: none;
+}
+span {
+  color: white;
+}
+
+i {
+  color: white;
+  font-size: 25px;
+  margin-right: 5px;
+}
+
+.navv {
+  position: fixed;
+  width: 100%;
+  margin-top: 0px;
+}

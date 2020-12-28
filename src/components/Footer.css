@@ -1,0 +1,14 @@
+.footer {
+  padding: 100px;
+  color: #fafafa;
+  background-color: black;
+  display: block;
+  margin-top: 100px;
+}
+
+.footer a {
+  display: block;
+  color: #fafafa;
+  margin-top: 5px;
+  text-transform: uppercase;
+}
